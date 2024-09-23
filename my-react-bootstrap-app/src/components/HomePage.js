@@ -1,3 +1,4 @@
+// src/components/HomePage.js
 import React from 'react';
 import { Container, Row, Col, Button, Card, Image } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
